@@ -40,9 +40,22 @@ print("                  ")
 
 cube = [1, 4, 9, 16, 25]
 
-for i in range(10000000000000000):
-    print(i, '번째 실행중')
-    cube.append(i + 1)
+cube.append(1)
+cube.append(2)
+cube.append(3)
+cube.append(4)
+cube.append(5)
+cube.append(6)
+cube.append(6)
+cube.append(6)
+cube.append(6)
+cube.append(6)
+cube.append(6)
 
-print('끝!!!')
+cube.append(6)
+cube.append(6)
+
+print('끝!!!!')
 # print(cube)
+
+
