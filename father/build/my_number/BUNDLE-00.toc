@@ -1,0 +1,3 @@
+([('my_number',
+   '/Users/rain.park/workspace-test/python-study/father/dist/my_number',
+   'EXECUTABLE')],)

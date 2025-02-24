@@ -1,0 +1,3 @@
+([('calculator',
+   '/Users/rain.park/workspace-test/python-study/father/source/calculate/dist/calculator',
+   'EXECUTABLE')],)
