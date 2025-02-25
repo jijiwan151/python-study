@@ -58,4 +58,7 @@ cube.append(6)
 print('끝!!!!')
 # print(cube)
 
+# print(cube.count(6))
 
+for i in range(1000000000000000):
+    print(i)
