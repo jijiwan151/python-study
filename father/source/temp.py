@@ -1,16 +1,10 @@
-from collections import deque
+a = [1, 3, 4, 2, 45, 3, 5, 3, 5, 3,6, 6, 3, 6, 3, 65, 436, 3, 5,3 4,6,5 34, 65, 43, 564, 43, 65, 43, 54,43, 6,4 5,3 265,43]
 
-data = [1, 2, 3]
+removed_number_list = []
 
-queue0 = ["1111", "3333", "5555"]
-queue = deque(["1111", "3333", "5555"])
+for i in a:
+    if (i != 3):
+        removed_number_list.append(i)
 
-print(data)
-print(queue)
-
-queue.append('7777')
-print(queue)
-
-
-print(queue0)
-print(queue)
+del a
+print(removed_number_list)
