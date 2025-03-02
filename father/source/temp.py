@@ -8,3 +8,5 @@ for i in a:
 
 del a
 print(removed_number_list)
+
+print('test')
